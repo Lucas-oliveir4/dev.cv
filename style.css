@@ -1,0 +1,219 @@
+body {
+   width: auto;
+   height: auto;
+   background-color: #161513;
+}
+
+#First {
+   opacity: 0.7;
+   background: #222;
+   box-shadow: 0px 4.36364px 16px -2.18182px rgba(0, 0, 0, 0.10);
+   gap: 71px; 
+   color: var(--Primary-Color, #FFF);
+   justify-content: center;
+   display: flex;
+   font-family: Plus Jakarta Sans;
+   font-size: 15px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: normal;
+   letter-spacing: 0.3px; 
+  }
+
+  #Imagem {
+   margin-top: 106.82px;
+   text-align: center;
+  }
+
+  #Profile {
+   color: var(--Primary-Color, #FFF);
+   text-align: center;
+   font-family: Poppins;
+   font-size: 55px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: 63.357px;
+  }
+
+  #sub {
+   margin-top: 39px;
+   border: auto;
+   margin: auto;
+   color: var(--Secondary-Text, #C5C5C5);
+   text-align: center;
+   font-family: Poppins;
+   font-size: 18px;
+   font-style: normal;
+   font-weight: 300;
+   line-height: normal;
+   letter-spacing: 0.36px; 
+   max-width: 40% ;
+   justify-content: center;
+  }
+
+  #Contato {
+   color: var(--Background-Color, #161513);
+   font-family: Poppins;
+   font-size: 21.38px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: normal; 
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   width: 195px;
+   height: 64px;
+   border-radius: 50px;
+   border: 1px solid var(--Primary-Color, #FFF);
+   background: linear-gradient(0deg, var(--Primary-Color, #FFF) 0%, var(--Primary-Color, #FFF) 100%), var(--Primary-Color, #FFF); 
+  }
+
+  #Cv {
+   color: var(--Background-Color, #161513);
+   font-family: Poppins;
+   font-size: 21.38px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: normal; 
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   width: 160px;
+   height: 46px; 
+   border-radius: 50px;
+   color: var(--Primary-Color, #FFF);
+   font-family: Poppins;
+   font-size: 21.38px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: normal;
+   width: 195px;
+   height: 64px; 
+   border-radius: 50px;
+   border: 2px solid var(--Primary-Color, #FFF);  
+
+  }
+
+  #MasterLink {
+   align-content: center;
+   align-items: center;
+   display: flex;
+   justify-content: center;
+   height: 64px;
+   width: 417px;
+   gap: 18px;
+   margin: 77px;
+   margin-left: 39%;
+  }
+
+  #Experiencia {
+   margin: 88px;
+   margin-left: 45%;
+   height: 30px;
+   width: 208px;
+   color: var(--Secondary-Text, #C5C5C5);
+   font-family: Poppins;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: 600;
+   line-height: normal;
+   letter-spacing: 2.4px;
+
+  }
+
+  #icons {
+   display: inline-flex;
+   align-items: flex-start;
+   gap: 60.445px; 
+   display: flex;
+   align-items: center;
+   justify-content: center;
+  }
+
+  #Projects {
+   font-family: Poppins;
+   font-size: 35px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: 35.748px; /* 102.137% */
+   text-transform: uppercase;
+   background: var(--Orange-Gradient, linear-gradient(180deg, #FF8660 0%, #D5491D 100%));
+   background-clip: text;
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 99px;
+  }
+
+
+  #Acesse {
+   margin: 10px;
+   text-align: left;
+   width: 156.836px;
+   color: var(--Primary-Color, #FFF);
+   font-family: Poppins;
+   font-size: 19px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: 20px; /* 105.263% */
+   text-transform: uppercase; 
+   border-radius: 18px;
+  }
+
+  #Acesse01 {
+   margin: 10px;
+   text-align: left;
+   width: 156.836px;
+   color: var(--Primary-Color, #FFF);
+   font-family: Poppins;
+   font-size: 19px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: 20px; /* 105.263% */
+   text-transform: uppercase; 
+   border-radius: 18px;
+  }
+
+  #Github {
+   border-radius: 18px;
+   background: var(--Card-Color, #2A2A2A);
+   
+  }
+
+  #Masteracesso {
+   gap: 40px;
+   align-content: center;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   border-radius: 18px;
+    
+  }
+
+  #Masteracesso01 {
+   gap: 40px;
+   align-content: center;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   border-radius: 18px;
+   background: var(--Card-Color, #2A2A2A);
+  }
+
+
+  #Exemplos {
+   align-content: center;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+  }
+
+  #Exemplos01 {
+   align-content: center;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+
+  }
